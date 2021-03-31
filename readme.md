@@ -1,4 +1,10 @@
-# Sistema para atendimneto na pizzaria, criado para trabalhar em conjunto com chatboot da pizzaria no messenger.
+## Sistema para atendimneto na pizzaria, criado para trabalhar em conjunto com chatboot da pizzaria no messenger.
+
+### Resumo
+Esse sistema foi criado para fornecer um chatboot no messenger para pizzarias.  
+Esse sistema possui os seguintes cadastros:
+Clientes, forma de pagamento, taxas de entrega, horario de atendimento, bebidas, pizzas, promoção, configurações gerais, dados cadastrais.
+
 
 ### Arquitetura
 - PHP 
