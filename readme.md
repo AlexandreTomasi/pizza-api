@@ -1,5 +1,5 @@
-## Sistema para atendimneto na pizzaria, criado para trabalhar em conjunto com chatboot da pizzaria no messenger.
-Video de uso: [https://youtu.be/ZmHmlF7Gi0Q](https://youtu.be/ZmHmlF7Gi0Q)  
+## Sistema para atendimento na pizzaria, criado para trabalhar em conjunto com chatboot da pizzaria no messenger.
+Video de uso de uma distribuidora, processo bem parecido: [https://youtu.be/ZmHmlF7Gi0Q](https://youtu.be/ZmHmlF7Gi0Q)  
 ### Resumo
 Esse sistema foi criado para fornecer um chatboot no messenger para pizzarias.  
 Esse sistema possui os seguintes cadastros:  
