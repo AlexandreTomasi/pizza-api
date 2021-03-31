@@ -2,6 +2,7 @@
 Video de uso de uma distribuidora, processo bem parecido: [https://youtu.be/ZmHmlF7Gi0Q](https://youtu.be/ZmHmlF7Gi0Q)  
 ### Resumo
 Esse sistema foi criado para fornecer um chatboot no messenger para pizzarias.  
+Para criar chatboot no messenger foi utilizado o chatfuel [https://chatfuel.com/](https://chatfuel.com/)  
 Esse sistema possui os seguintes cadastros:  
 Clientes, forma de pagamento, taxas de entrega, horario de atendimento, bebidas, pizzas, promoção, configurações gerais, dados cadastrais.  
 [https://github.com/AlexandreTomasi/pizza-api/blob/master/image/menu.JPG](https://github.com/AlexandreTomasi/pizza-api/blob/master/image/menu.JPG)  
