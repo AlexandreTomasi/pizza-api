@@ -264,3 +264,5 @@
 2021-03-30 21:34:32 -  (Pedido_model) metodo buscarPedidosRecentesCodgPizzaria com parametros nulos
 2021-03-30 22:02:42 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
 2021-03-30 22:02:42 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2021-03-30 22:58:28 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2021-03-30 22:58:28 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
