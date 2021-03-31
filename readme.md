@@ -4,6 +4,7 @@
 Esse sistema foi criado para fornecer um chatboot no messenger para pizzarias.  
 Esse sistema possui os seguintes cadastros:  
 Clientes, forma de pagamento, taxas de entrega, horario de atendimento, bebidas, pizzas, promoção, configurações gerais, dados cadastrais.  
+!https://github.com/AlexandreTomasi/pizza-api/blob/master/image/menu.JPG  
 [https://github.com/AlexandreTomasi/pizza-api/blob/master/image/menu.JPG](https://github.com/AlexandreTomasi/pizza-api/blob/master/image/menu.JPG)  
 ####Tela de Pedidos:
 A tela de pedidos lista todos os pedidos solicitados por um periodo padrao de 3 dias podendo ser alterado.  
@@ -13,7 +14,7 @@ clicar em iniciar atendimento será enviado para a pessoa que solicitou o pedido
 foi recebido e está sendo preparado. Não avendo necessidade nenhuma do atendente ter que acessar o messenger.  
 O atendente poderá tambem pausar o bot caso a pizzaria estiver com muitos pedidos, clicando no botaão flutuante "ON", podendo  
 assim pausar o bot pelo tempo desejado ou reinicialo.  
-[https://github.com/AlexandreTomasi/pizza-api/blob/master/image/tela de pedidos.JPG](https://github.com/AlexandreTomasi/pizza-api/blob/master/image/tela de pedidos.JPG)
+[https://github.com/AlexandreTomasi/pizza-api/blob/master/image/telapedidos.JPG](https://github.com/AlexandreTomasi/pizza-api/blob/master/image/telapedidos.JPG)
 
 
 
