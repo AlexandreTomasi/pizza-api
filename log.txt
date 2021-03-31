@@ -1,0 +1,17 @@
+﻿
+2017-11-01 11:05:49 - Codigo da pizzaria = 1 BairroCliente não existente
+2017-11-01 22:35:07 - Codigo da pizzaria = 1 last_visited_block_name não existente
+2017-11-07 20:44:24 - Codigo da pizzaria = 1 (Valor_configuracao_model) metodo buscaPorCodigoCliente com parametros nulos
+2017-11-07 20:44:58 - Codigo da pizzaria = 1 (Valor_configuracao_model) metodo buscaPorCodigoCliente com parametros nulos
+2017-11-07 21:06:23 - Codigo da pizzaria = 1 fb_first_name não existente
+2017-11-07 21:06:24 - Codigo da pizzaria = 1 fb_first_name não existente
+2017-11-07 21:06:25 - Codigo da pizzaria = 1 fb_first_name não existente
+2017-11-07 21:07:05 - Codigo da pizzaria = 1 fb_first_name não existente
+2017-11-07 21:07:09 - Codigo da pizzaria = 1 fb_first_name não existente
+2017-11-10 13:52:42 - Codigo da pizzaria = 1 (Forma_pagamento_model) metodo buscarFormaPagamentoDescricaoAtivas com parametros nulos
+2017-11-10 14:05:50 - Codigo da pizzaria = 1 (Forma_pagamento_model) metodo buscarFormaPagamentoDescricaoAtivas com parametros nulos
+2017-11-10 14:06:08 - Codigo da pizzaria = 1 (Forma_pagamento_model) metodo buscarFormaPagamentoDescricaoAtivas com parametros nulos
+2017-11-10 15:00:09 - Codigo da pizzaria = 1 (Cliente_model) metodo buscarClientesFBid com codigo cliente nulo
+2017-11-10 15:00:40 - Codigo da pizzaria = 1 (Cliente_model) metodo buscarClientesFBid com codigo cliente nulo
+2017-11-10 15:00:41 - Codigo da pizzaria = 1 (Cliente_model) metodo buscarClientesFBid com codigo cliente nulo
+2017-11-10 15:01:03 - Codigo da pizzaria = 1 (Cliente_model) metodo buscarClientesFBid com codigo cliente nulo

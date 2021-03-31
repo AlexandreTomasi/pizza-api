@@ -1,0 +1,266 @@
+﻿2017-08-04 16:16:31 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-08 23:48:17 - 1 Bairro ja possui uma taxa.
+2017-08-09 11:03:05 - 1 Bairro ja possui uma taxa.
+2017-08-09 12:33:52 - 1 Bairro ja possui uma taxa.
+2017-08-09 12:35:00 - 1 Bairro ja possui uma taxa.
+2017-08-09 12:35:07 - 1 Bairro ja possui uma taxa.
+2017-08-14 15:22:57 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:04 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:09 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:15 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:21 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:39 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:42 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:42 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:48 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:48 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:48 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:32:48 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:33:39 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:33:41 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:33:42 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:33:43 - 1 Erro ao incluir dados. Data ja existente. Example of file-text-o
+2017-08-16 16:33:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:33:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:33:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-16 16:33:43 - 1 Erro ao incluir dados. Data ja existente.
+2017-08-19 21:12:24 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 21:12:35 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 21:15:23 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 21:15:34 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 21:16:31 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 21:16:41 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 21:16:41 - gerado apartir do serviço Erro ao enviar email.
+2017-08-19 21:18:16 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 21:18:26 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 21:18:26 - gerado apartir do serviço Erro ao enviar email.
+2017-08-19 21:30:30 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 21:30:41 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 21:30:41 - gerado apartir do serviço Erro ao enviar email.
+2017-08-19 21:49:45 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 22:01:58 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 22:02:58 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 22:03:49 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 22:03:55 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 22:04:00 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 22:04:29 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 22:04:33 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 22:04:33 - gerado apartir do serviço Erro ao enviar email.
+2017-08-19 22:06:00 - Servico (verificaAtividadeChatbot) de verificacao do envio e recebimento de mensagem para o CHATFUEL foi inciado!
+2017-08-19 22:06:04 - Servico (verificaAtividadeChatbot) constatou que o chatbot NAO está ativo.
+2017-08-19 22:06:04 - gerado apartir do serviço Erro ao enviar email.
+2017-08-25 13:22:05 - 1 Erro ao incluir dados. Data já existente.
+2017-08-25 13:22:37 - 1 Erro ao incluir dados. Data já existente.
+2017-08-25 13:24:13 - 1 Erro ao incluir dados. Data já existente.
+2017-08-25 13:24:18 - 1 Erro ao incluir dados. Data já existente.
+2017-08-25 13:24:21 - 1 Erro ao incluir dados. Data já existente.
+2017-08-25 13:24:33 - 1 Erro ao incluir dados. Data já existente.
+2017-08-25 13:24:56 - 1 Erro ao incluir dados. Data já existente.
+2017-08-25 13:25:21 - 1 Erro ao incluir dados. Data já existente.
+2017-08-28 11:13:12 - 1 (Pizza_tamanho_model) metodo buscarTamanhoPorCodigoEpizzaria com parametros nulos
+2017-08-28 11:13:30 - 1 (Pizza_tamanho_model) metodo buscarTamanhoPorCodigoEpizzaria com parametros nulos
+2017-08-28 11:13:49 - 1 (Pizza_tamanho_model) metodo buscarTamanhoPorCodigoEpizzaria com parametros nulos
+2017-08-28 11:14:09 - 1 (Pizza_tamanho_model) metodo buscarTamanhoPorCodigoEpizzaria com parametros nulos
+2017-08-28 11:22:37 - 1 (Pizza_extra_model) metodo alterarExtra não alterou nenhuma linha
+2017-08-28 11:22:50 - 1 (Pizza_extra_model) metodo alterarExtra não alterou nenhuma linha
+2017-08-28 11:24:30 - 1 (Pizza_extra_model) metodo alterarExtra não alterou nenhuma linha
+2017-08-29 15:05:47 - 1 O bot ja está ativo.
+2017-08-29 15:08:37 - 1 Não existe nenhum pause cadastrado
+2017-08-29 15:09:09 - 1 Não existe nenhum pause cadastrado
+2017-08-29 18:23:36 - 1 O bot ja está ativo.
+2017-08-29 18:24:55 - 1 O bot ja está ativo.
+2017-08-29 18:26:04 - 1 Não existe nenhum pause cadastrado
+2017-08-29 18:26:06 - 1 Não existe nenhum pause cadastrado
+2017-08-29 18:26:48 - 1 Não existe nenhum pause cadastrado
+2017-08-29 18:27:04 - 1 O bot ja está ativo.
+2017-08-30 20:58:41 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-02 18:47:20 - 1 (Valor_configuracao_model) metodo alterarValorConfiguracao não alterou nenhuma linha
+2017-09-02 18:47:30 - 1 (Valor_configuracao_model) metodo alterarValorConfiguracao não alterou nenhuma linha
+2017-09-02 18:47:45 - 1 Erro ao alterar dados.
+2017-09-02 18:47:59 - 1 Erro ao alterar dados.
+2017-09-02 21:48:33 - 1 (Pizza_extra_model) metodo alterarExtra não alterou nenhuma linha
+2017-09-02 21:48:35 - 1 (Pizza_extra_model) metodo alterarExtra não alterou nenhuma linha
+2017-09-04 15:46:47 - 1 Bairro ja possui uma taxa.
+2017-09-04 15:47:02 - 1 Bairro ja possui uma taxa.
+2017-09-04 15:55:57 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega não alterou nenhuma linha
+2017-09-04 17:36:55 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega não alterou nenhuma linha
+2017-09-04 17:37:01 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega não alterou nenhuma linha
+2017-09-04 17:37:05 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega não alterou nenhuma linha
+2017-09-06 13:00:50 - Codigo pizzaria:  erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-06 13:00:50 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-06 13:00:56 - Codigo pizzaria:  erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-06 13:00:56 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:50:44 - Codigo pizzaria:  erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:50:44 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:50:57 - Codigo pizzaria:  erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:50:57 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:52:13 - Codigo pizzaria:  erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:52:13 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:10 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:10 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:37 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:37 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:43 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:43 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:46 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:46 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-14 09:53:57 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-09-14 09:53:57 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-09-14 10:02:10 - 1 Erro ao comunicar cliente.
+2017-09-14 10:12:36 - 1 Erro ao comunicar cliente.
+2017-09-14 10:22:06 - 1 Erro ao comunicar cliente.
+2017-09-14 10:23:16 - 1 Erro ao comunicar cliente.
+2017-09-14 10:24:59 - 1 Erro ao comunicar cliente.
+2017-09-14 10:25:11 - 1 Erro ao comunicar cliente.
+2017-09-14 10:29:37 - 1 Erro ao comunicar cliente.
+2017-09-14 10:34:09 - 1 Erro ao comunicar cliente.
+2017-09-14 13:27:34 - 1 Erro ao comunicar cliente.
+2017-09-15 11:34:27 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-15 11:34:27 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-15 11:35:44 - 1 Erro ao comunicar cliente.
+2017-09-15 19:04:45 - 1 (Configuracao) metodo buscaConfigPorDescricao com parametros nulos
+2017-09-16 09:34:27 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:27 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:32 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:32 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:35 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:35 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:39 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:39 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:45 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:45 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:46 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:46 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:47 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:47 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:47 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:34:47 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:47 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:47 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:48 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:48 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:49 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:49 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:54 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:35:54 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:36:29 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:36:29 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:01 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:01 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:22 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:22 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:24 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:24 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:38 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:38 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:42 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:42 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:43 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:43 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:43 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:37:43 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:39:13 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:39:13 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:40:52 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:40:52 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:40:56 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 09:40:56 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 13:28:02 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-16 13:28:02 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-26 20:34:20 - Erro ao alterar dados.
+2017-09-26 20:34:59 - Erro ao alterar dados.
+2017-09-26 20:35:23 - Erro ao alterar dados.
+2017-09-26 20:35:41 - Erro ao alterar dados.
+2017-09-27 11:26:28 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-09-27 11:26:28 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-09-27 11:26:58 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-27 11:26:58 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-27 11:29:49 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-27 11:29:49 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-27 11:30:12 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-27 11:30:12 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-09-27 11:31:08 - 1 Erro ao comunicar cliente.
+2017-09-29 17:38:34 - IA excessão no controller ControladorConversa (AssuntoModel) metodo buscarTodosAssuntos com parametros nulos
+2017-09-29 17:38:59 - IA excessão no controller ControladorConversa (AssuntoModel) metodo buscarTodosAssuntos com parametros nulos
+2017-09-30 22:00:58 - 3 consulta Horario Atendimento nao retornou nenhum dado. Funcionalidade: verificarHorarioAtendimentoNormalEspecial
+2017-10-03 19:52:10 - Codigo pizzaria: 1 erro: (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-10-03 19:52:10 - 1 (Valor_pizza_model) metodo buscarValorPizzaAtivo com parametros nulos
+2017-10-10 18:51:16 - 1 Erro ao comunicar cliente.
+2017-10-10 18:51:42 - 1 Erro ao comunicar cliente.
+2017-10-13 13:07:30 - 1 Erro ao alterar dados.
+2017-10-13 13:07:31 - 1 Erro ao alterar dados.
+2017-10-13 13:23:30 - 1 DateTime::__construct(): Failed to parse time string (13/10/2017 11:00:00) at position 0 (1): Unexpected character
+2017-10-13 13:25:20 - 1 DateTime::__construct(): Failed to parse time string (13/10/2017 11:00:00) at position 0 (1): Unexpected character
+2017-10-13 14:13:08 - 1 fjh
+2017-10-13 14:14:25 - 1 fjh
+2017-10-14 16:12:05 - 1 O bot ja está ativo.
+2017-10-18 09:49:44 -  (Bebida_model) metodo removerBebida com parametros nulos
+2017-10-18 10:40:28 - 1 Erro ao alterar dados.
+2017-10-18 10:41:24 - 1 (Bebida_model) metodo removerBebida com parametros nulos
+2017-10-18 10:42:23 - 1 (Bebida_model) metodo removerBebida com parametros nulos
+2017-10-18 10:44:45 - 1 (Bebida_model) metodo ativarBebidaPorCodg com parametros nulos
+2017-10-18 10:46:49 - 1 (Bebida_model) metodo ativarBebidaPorCodg com parametros nulos
+2017-10-18 10:47:20 - 1 (Bebida_model) metodo ativarBebidaPorCodg com parametros nulos
+2017-10-18 10:48:13 - 1 (Bebida_model) metodo ativarBebidaPorCodg com parametros nulos
+2017-10-18 10:49:00 - 1 (Bebida_model) metodo ativarBebidaPorCodg com parametros nulos
+2017-10-18 12:03:34 - 1 (Pizza_extra_model) metodo removerExtra não alterou nenhuma linha
+2017-10-20 12:14:06 - 1 Bairro ja possui uma taxa.
+2017-10-20 12:14:11 - 1 Bairro ja possui uma taxa.
+2017-10-24 15:15:53 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega com parametros nulos
+2017-10-24 15:16:04 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega com parametros nulos
+2017-10-24 15:28:56 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega não alterou nenhuma linha
+2017-10-24 15:29:14 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega não alterou nenhuma linha
+2017-10-24 15:29:31 - 1 (Taxa_entrega_model) metodo removerTaxaEntrega não alterou nenhuma linha
+2017-10-25 12:12:18 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:12:18 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:38:45 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:38:45 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:38:52 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:38:52 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:21 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:21 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:24 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:24 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:27 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:27 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:30 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:30 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:41 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:41 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:45 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 12:39:45 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:26:31 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:26:31 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:28:01 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:28:01 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:28:04 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:28:04 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:28:41 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:28:41 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:31:12 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:31:12 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:33:04 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:33:04 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:34:03 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:34:03 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:36:06 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:36:06 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:36:29 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-10-25 13:36:29 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2017-11-07 10:44:45 - IA excessão no controller ControladorAssunto Unable to locate the model you have specified: Personagem_respostas_model
+2017-11-07 10:45:45 - IA excessão no controller ControladorAssunto Unable to locate the model you have specified: Personagem_respostas_model
+2017-11-09 12:40:56 - 1 Erro ao comunicar cliente.
+2021-03-30 21:34:24 -  (HorariosEmpresa) metodo consultaHorarioAtendimento com parametros nulos
+2021-03-30 21:34:28 -  (Taxa_entrega_model) metodo buscarTaxaEntregaAtivasUniaoBairro com parametros nulos
+2021-03-30 21:34:29 -  (Pizza_sabor_model) metodo buscarSaboresEmpresa com parametros nulos
+2021-03-30 21:34:30 -  (Forma_pagamento_model) metodo buscarFormaPagamentoAtivas com parametros nulos
+2021-03-30 21:34:31 -  (Cliente_model) metodo buscarClientes com parametros nulos
+2021-03-30 21:34:32 -  (HorariosEmpresa) metodo consultaHorarioAtendimento com parametros nulos
+2021-03-30 21:34:32 -  (Pedido_model) metodo buscarPedidosRecentesCodgPizzaria com parametros nulos
+2021-03-30 22:02:42 - Codigo pizzaria: 1 erro: (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos
+2021-03-30 22:02:42 - 1 (Tipo_extra_model) metodo buscarTipoExtraPorId com parametros nulos

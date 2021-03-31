@@ -1,0 +1,94 @@
+ANNA - INÍCIO
+SAUDAÇÃO {
+	Anna [NUNCA FEZ PEDIDO]: |Olá, meu nome é Anna.|Oi, eu sou a Anna.| Oieeee, meu nome é Anna.| Olá, tudo bem? Eu sou a Anna.| Oi, tudo bem? Eu sou a Anna.|
+	Anna: |Sou a atendente virtual da pizzaria @nome_pizzaria.|Estou aqui para anotar os seus pedidos.| Atendente virtual da pizzaria @nome_pizzaria.
+	Anna: :D| :)|
+	Anna: |Eu vou te ajudar a fazer o seu primeiro pedido.| Deixa eu te ajudar a fazer o primeiro pedido comigo.| 
+	Anna: |Clique nas opções conforme as imagens e siga o fluxo @mao_baixo| É fácil, só clicar nas opções conforme essas imagens @mao_baixo.| É só clicar nas opções 										
+        conforme as imagens:|
+	Anna: @imagem_botao
+	Anna: @imagem_botao_galeria
+	Anna: @imagem_botao_quick_reply
+	Anna: |Você também pode cancelar o pedido a qualquer momento.| Se necessário, você pode cancelar o pedido também.|
+	Anna: |Para isso, digite CANCELAR| É só escrever CANCELAR.|
+
+	Anna [PEDIDO RECENTE]: |Olá, que bom te ver aqui de volta.| Oi, você voltou.| Oieee, que bom te ver aqui de novo.| Olá, você de novo.| Que bom te ver aqui de novo.| Oi, 	
+        @nome_usuario. Que bom te ver aqui de novo!
+	Anna: |<3| 
+
+	Anna[PEDIDO NÃO RECENTE]: |Olá, faz tempo que não te vejo por aqui.| Oi, faz tempo que você não pede pizza comigo né?|
+	Anna: |:(|
+
+	
+	Anna[TODOS CASOS]: |Como posso te ajudar, @nome_usuario?| O que você deseja hoje?| Como posso te ajudar?| Escolha uma das opções abaixo:|
+	Sistema: apresenta botões quick reply NOVO PEDIDO, ÚLTIMO PEDIDO e QUERO FALAR COM O GERENTE
+} SAUDAÇÃO
+
+
+ANNA - ÚLTIMO PEDIDO
+MENSAGEM INICIAL[ÚLTIMO PEDIDO]{
+	Anna: |Deixa eu verificar qual foi seu último pedido comigo.| Vou ver qual foi seu último pedido comigo.| Espere um momento.| Deixa eu pegar qual foi seu último pedido.|
+}MENSAGEM INICIAL[ÚLTIMO PEDIDO]
+
+RESUMO PEDIDO[ÚLTIMO PEDIDO]{
+	Anna: |Achei! Seu último pedido foi:| Encontrei seu último pedido:|
+	Anna: |@resumo_ultimo_pedido|
+	Anna: |Deseja confirmar?| É isso mesmo?| Confirma pedido?|
+	Sistema: apresenta botões quick reply SIM e NÃO.
+}RESUMO PEDIDO[ÚLTIMO PEDIDO]
+
+
+OBSERVACAO[ÚLTIMO PEDIDO]{
+	Anna: |Tem alguma observação para o pedido, tipo: "Não quero cebola"?| Alguma observação pro pedido?| 
+	Sistema: apresenta botão quick reply NÃO. Não é possivel neste caso usar o quick reply .
+	Anna: |Caso deseje algo, só digitar| Escreva, fazendo favor: @mao_baixo| Caso tenha algo, só escrever:|
+}OBSERVACAO[ÚLTIMO PEDIDO]
+
+ENDERECO[ÚLTIMO PEDIDO]{
+	Anna: |O último endereço de entrega foi:| A entrega no último pedido foi feita em:| Esse foi o último endereço de entrega:|
+	Anna: @ultimo_endereco
+	Anna: |É isso mesmo?| Confirma o endereço?| Confirma local de entrega?|
+	Sistema: apresenta botões quick reply SIM e NÃO.
+}ENDERECO[ÚLTIMO PEDIDO]
+
+TELEFONE[ÚLTIMO PEDIDO]{
+	Anna: |O telefone de contato que eu tenho aqui é:| Seu telefone é:| Esse foi o telefone do último pedido:|
+	Anna: @cliente_telefone
+	Anna: |É isso mesmo?| Confirma o telefone?| Confirma número?|
+	Sistema: apresenta botões quick reply SIM e NÃO.
+}TELEFONE[ÚLTIMO PEDIDO]
+
+
+RESUMO PEDIDO INFORMA[ÚLTIMO PEDIDO]{
+	Anna: |Seu pedido é:| Aqui um resumo do seu pedido:|
+	Anna: |@resumo_ultimo_pedido_final|
+}RESUMO PEDIDO INFORMA[ÚLTIMO PEDIDO]
+
+FORMA PAGAMENTO[ÚLTIMO PEDIDO]{
+	Anna: |Qual a forma de pagamento?| Escolha a forma de pagamento:| Como será feito o pagamento?
+	Sistema: apresenta botões quick reply com FORMAS DE PAGAMENTO ativas.
+	Usuário: seleciona DINHEIRO.
+	Anna: |Qual o troco?|
+}FORMA PAGAMENTO[ÚLTIMO PEDIDO]
+
+CONFIRMACAO PEDIDO[ÚLTIMO PEDIDO]{
+	Anna: |Inclui seu pedido |
+}
+
+ANNA - QUERO FALAR COM O GERENTE
+MENSAGEM INICIAL[GERENTE]{
+	Anna: |Tudo bem! Vou chamá-lo.| Ok, deixa eu chamar ele.| Tudo bem, aguarde um momento enquanto chamo ele.| Ok, espere um momento enquanto eu o chamo.|
+	Sistema: alerta ADMIN da página. ADMIN dá atendimento e o finaliza.
+}
+
+MENSAGEM FINAL[GERENTE]{
+	Anna: |Espero que tudo tenha se resolvido.| Espero que tenha dado tudo certo.|
+	Anna: |Posso te ajudar em mais alguma coisa?| Deseja mais alguma coisa, @nome_usuario?|
+}
+
+ANNA - NOVO PEDIDO
+MENSAGEM INICIAL[NOVO PEDIDO]{
+	Anna: |Aqui tá o nosso cardápio para você dar uma olhada.| Dê uma olhada no nosso cardápio.| Escolha o que deseja no nosso cardápio.| @nome_usuario, dê uma olhada 	
+        no cardápio.|
+	Anna: list@imagem_cardapio
+}MENSAGEM INICIAL[NOVO PEDIDO]
